@@ -1,7 +1,7 @@
 const CONFIG = {
     titleWeb: "my bae",
     introTitle: 'Phuong Thuy',
-    introDesc: `heyyy,anh tên là Tuấn, nhưng từ giờ em có thể gọi là babyyyyyeee',
+    introDesc: `heyyy,anh tên là Tuấn, nhưng từ giờ em có thể gọi là babyyyyyeee`,
     btnIntro: '^^Pthuy ấn vào đây nàooo^^',
     title: 'nè , em có thích tôi không...? <3',
     desc: 'em thoát ra là em đồng ý đó nkaaaa <33 ',
