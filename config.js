@@ -12,6 +12,6 @@ const CONFIG = {
     reply: 'có ạ, anh rất đẹp trai và đến đây là vì em <3 <3 <3',
     mess: 'đúng ruifiii , là vì em đóooo 😘😘',
     messDesc: 'thứ 2 là ngày đầu tuần,bé hứa cô gắng chăm ngoan,t3 t4 t5 ngày nào cũng luôn cố gắng ,t6 rồi đến thứ 7 tuần này em có rảnh không?.',
-    btnAccept: 'dạ em rảnh,qua đón em đi coi phim nhé <3',
+    btnAccept: 'dạ em rảnh,qua đón em đi coi phim nhé  <3',
     messLink: 'https://www.facebook.com/profile.php?id=100006131343650' 
 }
