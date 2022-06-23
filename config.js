@@ -15,10 +15,3 @@ const CONFIG = {
     btnAccept: 'dạ em rảnh,qua đón em đi coi phim nhé  <3',
     messLink: 'https://www.facebook.com/profile.php?id=100006131343650' 
 }
-    <audio src="baihat.mp3" type="audio/mp3" controls>
-
-    </audio>
-
-
-</body>
-</html>
